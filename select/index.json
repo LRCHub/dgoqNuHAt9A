@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "START UP",
+  "base_artist": "天音かなた",
+  "createdAt": "2026-01-06T06:40:23.541492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Start Up Chime",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/01_Start_Up_Chime_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Start Up Again (with Moneybagg Yo)",
+      "artist": "Polo G feat. Moneybagg Yo",
+      "has_synced": true,
+      "path": "select/02_Start_Up_Again_(with_Moneybagg_Yo)_Polo_G_feat._Moneybagg_Yo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Start Up Again (feat. Moneybagg Yo)",
+      "artist": "Polo G",
+      "has_synced": true,
+      "path": "select/03_Start_Up_Again_(feat._Moneybagg_Yo)_Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Start Up Again",
+      "artist": "Polo G",
+      "has_synced": true,
+      "path": "select/04_Start_Up_Again_Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Start Up Again",
+      "artist": "Polo G feat. Moneybagg Yo",
+      "has_synced": true,
+      "path": "select/05_Start_Up_Again_Polo_G_feat._Moneybagg_Yo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Start Up the Incinerator (Here Comes Another Useless Fool)",
+      "artist": "Carpathian Forest",
+      "has_synced": false,
+      "path": "select/06_Start_Up_the_Incinerator_(Here_Comes_Another_Useless_Fool)_Carpathian_Forest.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "START UP",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/07_START_UP_天音かなた.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "START-UP NATION",
+      "artist": "Sidilarsen",
+      "has_synced": false,
+      "path": "select/08_START-UP_NATION_Sidilarsen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "START UP",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_START_UP_天音かなた.txt"
+    }
+  ]
+}
